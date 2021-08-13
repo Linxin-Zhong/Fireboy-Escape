@@ -1,5 +1,5 @@
 # Fireboy-Escape
-A areproduction of the famous video games series "Fireboy and Watergirl" using JavaSwing. 
+A reproduction of the famous video games series "Fireboy and Watergirl" using JavaSwing. 
 
 Screenshots from the game:
 
