@@ -1,6 +1,15 @@
 # Fireboy-Escape
 A reproduction of the famous video games series "Fireboy and Watergirl" using JavaSwing. 
 
+Video:
+
+
+
+https://user-images.githubusercontent.com/77327417/137347203-58dafcf9-2056-4695-a165-fc9b047d6650.mp4
+
+
+
+
 Screenshots from the game:
 
 <img width="779" alt="截屏2021-08-13 10 31 44" src="https://user-images.githubusercontent.com/77327417/129298173-8dc78b9f-900a-468b-997f-634f06bdbd90.png">
